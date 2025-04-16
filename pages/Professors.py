@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import psycopg2
+from streamlit_searchbox import st_searchbox
 
 st.set_page_config(page_title= "Gradient - Professors", page_icon=":tada:", layout ="wide", initial_sidebar_state="collapsed")
 st.markdown(
@@ -85,8 +86,15 @@ with st.container():
             # matches = process.extract(prof.lower(), prof_names, limit=1000)
 
             # options = [match[0] for match in matches]
-            selected_prof = st.selectbox("## Select a professor", prof_names)
-
+            # selected_prof = st.selectbox("## Select a professor", prof_names)
+            def search_professors(search_term: str):
+                if not search_term:
+                    return []
+                matches = df[df["Professor Name"].str.contains(search_term, case=False, na=False)]
+                return matches["Professor Name"].tolist()
+            
+            selected_prof = st_searchbox(search_professors, placeholder="Search for a Professor...")
+            
             selected_prof_data = df[df["Professor Name"] == selected_prof]
 
             for _, row in selected_prof_data.iterrows():
