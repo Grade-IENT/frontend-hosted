@@ -4,7 +4,7 @@ from pathlib import Path
 import sys
 
 # ─────────────── Add repo root to path ───────────────
-sys.path.append(str(Path(__file__).resolve().parents[2]))
+sys.path.append(str(Path(__file__).resolve().parents[1]))
 
 # ─────────────── Import scheduler ───────────────
 from course_scheduler import build_plan, DEFAULT_MIN_CR, DEFAULT_MAX_CR
