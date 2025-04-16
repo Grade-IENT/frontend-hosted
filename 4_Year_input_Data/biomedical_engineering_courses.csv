@@ -1,0 +1,44 @@
+Course Code,Course Name,Prerequisites,Credits,Semester Offered,SQI
+160:159,General Chemistry for Engineers,640:103 or 640:104 or 640:112 or 640:115 or 640:135 or 640:151,,,3.21
+160:171,Intro to Experimentation,160:159 or 160:161 or 160:163 or 160:165 or 160:115 or 160:115,,,4.08
+355:101,College Writing,,3," Spring, Fall", 3
+440:101, Introduction to Data-Driver Design for Engineering Applications,,2, Fall, 5
+440:102, Introduction to Data-Driver Design for Engineering Applications II,,2, Spring, 5
+640:151,Calculus I,640:113 and 640:114 and 640:112 or 640:113 and 640:114 and 640:115,,,3.94
+750:123,Analytical Physics IA,,,,4.21
+Humanities Elective,Humanities/Social Science Elective,,,,
+160:160,General Chemistry for Engineers,640:112 and 640:115 and 160:159,,,3.0
+440:221,Engineering Mechanics (Statics),640:151 and 640:121 and 640:135 and 750:123 or 640:151 and 640:191 and 640:135 and 750:203 or 750:202 and 750:271 and 750:115 and 640:151 or 640:151 and 640:191 and 640:135 and 750:271 or 640:151 and 640:121 and 640:135 and 750:213 or 640:151 and 640:135 and 640:121 and 750:131,,,3.54
+640:152,Calculus II,640:135 or 640:151 or 640:135 or 640:155 or 640:121 or 640:135,,,4.01
+750:124,Analytical Physics IB,750:115 or 750:123,,,4.23
+125:201,Intro to Biomedical Engineering,750:116 and 750:124 and 750:271 and 640:152 or 750:116 and 750:124 and 750:271 and 640:192 or 640:136 and 640:136 and 640:136 and 750:213 or 640:122 and 640:122 and 640:122 and 750:131,,,3.88
+640:251,Multivariable Calculus,640:152 or 640:192 or 640:136 or 640:156 or 640:122,,,3.89
+750:227,Analytical Physics IIA + Lab,750:116 and 750:124 and 750:271 and 640:152,3,Fall,3.78
+119:115,Biology I,,,,
+Humanities Elective,Humanities/Social Science Elective,,,,
+540:343,Engineering Economics,,,,4.52
+125:255,Biomedical System Physiology,750:116 and 750:124 and 750:271 and 640:152 or 750:116 and 750:124 and 750:271 and 640:192 or 640:136 and 640:136 and 640:136 and 750:213 or 640:122 and 640:122 and 640:122 and 750:131,,,2.61
+640:244,Differential Equations,640:243 or 640:251 or 640:291 or 640:235 or 640:235,,,4.08
+750:228,Analytical Physics IIB,750:204 and 750:204 and 640:152 or 750:227 and 750:227 and 640:152 or 750:272 and 750:272 and 640:152,,,3.75
+750:230,Analytical Physics IIB Lab,750:227 or 750:214 or 750:132 or 750:204 or 750:204 or 750:204,,,4.05
+119:117,Biology Lab,,,,
+125:303,Biomedical Transport Phenomena,125:201 and 125:255 and 640:244 and 640:292 or 125:201 and 125:255 and 640:244 and 640:244 or 125:201 and 125:255 and 640:244 and 640:314,,,3.86
+125:305,Numerical Modeling in Biomedical Systems,125:201 and 440:127 and 640:244 and 125:255 or 125:201 and 440:127 and 440:191 and 125:255 or 125:201 and 440:127 and 640:292 and 125:255,,,4.07
+125:308,Biomechanics,125:201 and 440:221 and 640:251 and 125:255 or 125:201 and 440:221 and 640:291 and 125:255 or 125:201 and 440:291 and 640:251 and 125:255 or 125:201 and 440:291 and 640:291 and 125:255,,,3.72
+125:309,Biomedical Devices and Systems,125:201 and 640:251 and 750:227 and 125:255 or 125:201 and 640:251 and 750:275 and 125:255 or 125:201 and 640:251 and 750:271 and 125:255 or 125:201 and 640:251 and 750:271 and 125:255 or 125:201 and 640:235 and 750:214 and 125:255 or 125:201 and 640:221 and 750:132 and 125:255,,,3.05
+125:310,Biomedical Devices & Systems Lab,125:201 and 640:251 and 750:227 and 125:255 or 125:201 and 640:251 and 750:275 and 125:255 or 125:201 and 640:251 and 750:271 and 125:255 or 125:201 and 640:251 and 750:271 and 125:255 or 125:201 and 640:235 and 750:214 and 125:255 or 125:201 and 640:221 and 750:132 and 125:255,,,3.27
+Technical Elective,Technical Elective,,,,
+Technical Elective,Technical Elective,,,,
+125:304,Biomaterials,125:201 and 125:255 and 125:201 and 125:255 or 125:201 and 125:355 and 125:355 and 125:201 or 635:203 and 635:203 and 635:206 and 635:206 or 635:203 and 635:203 and 635:204 and 635:204,,,4.08
+125:306,Kinetics and Thermodynamics,125:201 and 125:255 and 640:244 and 119:115 or 640:292 and 119:115 and 125:201 and 125:255 or 125:201 and 125:255 and 640:244 and 119:117 or 640:292 and 119:117 and 125:201 and 125:255 or 125:201 and 125:355 and 640:244 and 119:115 or 125:201 and 125:355 and 640:244 and 119:117,,,3.84
+125:315,BME Measurement & Analysis Lab,125:201 or 125:255 and 125:309 and 125:310,,,3.95
+Life Science Elective,Life Science Elective,,,,
+125:401,Senior Design I,125:305 and 125:303 and 125:306 and 125:315 or 125:304 and 125:305 and 125:306 and 125:315 or 125:309 and 125:310 and 125:308 and 125:315 or 125:308 and 125:304 and 125:306 and 125:305,,,3.73
+125:421,Senior Design Projects I,125:208 and 125:303 and 125:306 and 125:315 or 125:308 and 125:303 and 125:306 and 125:315,,,
+Departmental Elective,Departmental Elective,,,,
+Departmental Elective,Departmental Elective,,,,
+Technical Elective,Technical Elective,,,,
+125:402,Senior Design II,125:401,,,3.48
+125:422,Senior Design Projects II,125:208 and 125:303 and 125:306 and 125:315 or 125:308 and 125:303 and 125:306 and 125:315,,,
+Departmental Elective,Departmental Elective,,,,
+Technical Elective,Technical Elective,,,,

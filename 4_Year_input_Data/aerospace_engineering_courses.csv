@@ -1,0 +1,44 @@
+Course Code,Course Name,Prerequisites,Credits,Semester Offered,SQI
+160:159,General Chemistry for Engineers,640:103 or 640:104 or 640:112 or 640:115 or 640:135 or 640:151,,,3.21
+160:171,Intro to Experimentation,160:159 or 160:161 or 160:163 or 160:165 or 160:115 or 160:115,,,4.08
+355:101,College Writing,,3," Spring, Fall", 3
+440:101, Introduction to Data-Driver Design for Engineering Applications,,2, Fall, 5
+440:102, Introduction to Data-Driver Design for Engineering Applications II,,2, Spring, 5
+640:151,Calculus I,640:113 and 640:114 and 640:112 or 640:113 and 640:114 and 640:115,,,3.94
+750:123,Analytical Physics IA,,,,4.21
+Humanities Elective,Humanities/Social Science Elective,,,,
+160:160,General Chemistry for Engineers,640:112 and 640:115 and 160:159,,,3.0
+440:221,Engineering Mechanics (Statics),640:151 and 640:121 and 640:135 and 750:123 or 640:151 and 640:191 and 640:135 and 750:203 or 750:202 and 750:271 and 750:115 and 640:151 or 640:151 and 640:191 and 640:135 and 750:271 or 640:151 and 640:121 and 640:135 and 750:213 or 640:151 and 640:135 and 640:121 and 750:131,,,3.54
+640:152,Calculus II,640:135 or 640:151 or 640:135 or 640:155 or 640:121 or 640:135,,,4.01
+750:124,Analytical Physics IB,750:115 or 750:123,,,4.23
+440:222,Engineering Mechanics (Dynamics),640:152 and 640:154 and 640:192 and 440:221 or 640:152 and 640:154 and 640:192 and 440:291 or 640:152 and 640:122 and 640:136 and 440:221 or 640:152 and 640:122 and 640:136 and 440:291,,,3.67
+540:343,Engineering Economics,,,,4.52
+640:251,Multivariable Calculus,640:152 or 640:192 or 640:136 or 640:156 or 640:122,,,3.89
+650:210,Intro to Aerospace Engineering,440:221 and 440:291 and 640:152 or 440:221 and 440:291 and 640:136 or 440:221 and 440:291 and 640:122 or 440:221 and 440:291 and 640:192,,,3.85
+750:227,Analytical Physics IIA + Lab,750:116 and 750:124 and 750:271 and 640:152,3,Fall,3.78
+650:291,Mechanics of Materials,440:221 and 440:291 and 640:152 or 440:221 and 440:291 and 640:136 or 440:221 and 440:291 and 640:122 or 440:221 and 440:291 and 640:192,,,3.31
+650:388,CAD in MAE,640:152 and 640:136 and 440:221 or 640:122 and 640:192 and 440:221 or 640:152 and 640:136 and 440:291 or 640:122 and 640:192 and 440:291,,,3.46
+650:361,Mechatronics,640:152 and 640:136 and 640:122 and 440:221 or 640:152 and 640:136 and 640:122 and 440:291 or 640:192 and 640:136 and 640:122 and 440:221 or 640:192 and 640:136 and 640:122 and 440:291,,,3.67
+650:351,Thermodynamics,440:222 and 750:227 and 640:251 and 640:251 or 440:292 and 750:227 and 640:251 and 640:251 or 440:292 and 750:272 and 640:291 and 640:291 or 440:222 and 750:272 and 640:251 and 640:251 or 440:292 and 750:272 and 640:251 and 640:251 or 440:222 and 750:227 and 640:291 and 640:291,,,3.65
+650:291,Mechanics of Materials,440:221 and 440:291 and 640:152 or 440:221 and 440:291 and 640:136 or 440:221 and 440:291 and 640:122 or 440:221 and 440:291 and 640:192,,,3.31
+650:388,CAD in MAE,640:152 and 640:136 and 440:221 or 640:122 and 640:192 and 440:221 or 640:152 and 640:136 and 440:291 or 640:122 and 640:192 and 440:291,,,3.46
+640:421,Advanced Calculus,640:244 or 640:252 or 640:292 or 640:314 or 640:314,,,3.84
+650:312,Fluid Mechanics,640:244 and 640:292 and 640:314 and 440:222 or 640:244 and 640:292 and 640:314 and 440:292,,,4.03
+650:342,Design of Mechanical Components,650:291 and 440:222 and 640:251 and 650:388 or 650:291 and 440:222 and 640:291 and 650:388 or 650:291 and 440:292 and 640:251 and 650:388 or 650:291 and 440:292 and 640:291 and 650:388 or 180:243 and 440:222 and 640:251 and 650:388 or 180:243 and 440:222 and 640:291 and 650:388,,,3.68
+650:401,Dynamic Systems & Controls,640:244 and 640:292 and 640:314 and 440:222 or 640:244 and 640:292 and 640:314 and 440:292,,,3.52
+650:350,MAE Measurements,650:361 and 650:291 and 640:251 and 640:251 or 650:361 and 650:291 and 640:291 and 640:291 or 650:361 and 650:291 and 640:221 and 640:221 or 650:361 and 650:291 and 640:235 and 640:235,,,3.27
+650:449,Aerospace Materials,640:244 and 640:292 and 650:291 or 640:314 and 640:314 and 650:291,,,3.41
+650:458,Aerospace Structures,640:251 and 640:291 and 640:221 and 650:291 or 640:251 and 640:291 and 640:235 and 650:291,,,3.39
+650:460,Aerodynamics,650:312 or 650:351,,,4.15
+650:471,Aircraft Flight Dynamics,440:222 and 440:292 and 640:421,,,2.87
+Humanities Elective,Humanities/Social Science Elective,,,,
+Technical Elective,Technical Elective,,,,
+650:431,MAE Lab I,650:350 or 650:312 and 650:351,,,3.6
+650:439,Multiphysics Simulations,640:244 or 650:351,,,3.89
+650:457,Spacecraft Mission Design,650:342 or 650:388,,,4.15
+650:465,Orbital Mechanics,650:312 or 650:351,,,3.5
+650:487,Aerospace Design Project I,650:312 or 650:342 and 650:350 and 650:351 and 650:388,,,3.9
+650:433,AE Lab,650:291 or 650:312 and 650:350 and 650:351,,,3.59
+650:459,Aerospace Propulsion,650:312 or 650:351,,,3.71
+650:463,Compressible Fluid Dynamics,650:312 or 650:351,,,4.2
+650:488,Aerospace Design Project II,650:487,,,3.77

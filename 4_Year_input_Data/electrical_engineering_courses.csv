@@ -1,0 +1,48 @@
+Course Code,Course Name,Prerequisites,Credits,Semester Offered,SQI
+160:159,General Chemistry for Engineers,640:103 or 640:104 or 640:112 or 640:115 or 640:135 or 640:151,,,3.21
+160:171,Intro to Experimentation,160:159 or 160:161 or 160:163 or 160:165 or 160:115 or 160:115,,,4.08
+355:101,College Writing,,3," Spring, Fall", 3
+440:101, Introduction to Data-Driver Design for Engineering Applications,,2, Fall, 5
+440:102, Introduction to Data-Driver Design for Engineering Applications II,,2, Spring, 5
+640:151,Calculus I,640:113 and 640:114 and 640:112 or 640:113 and 640:114 and 640:115,,,3.94
+750:123,Analytical Physics IA,,,,4.21
+Humanities Elective,Humanities/Social Science Elective,,,,
+160:160,General Chemistry for Engineers,640:112 and 640:115 and 160:159,,,3.0
+440:221,Engineering Mechanics (Statics),640:151 and 640:121 and 640:135 and 750:123 or 640:151 and 640:191 and 640:135 and 750:203 or 750:202 and 750:271 and 750:115 and 640:151 or 640:151 and 640:191 and 640:135 and 750:271 or 640:151 and 640:121 and 640:135 and 750:213 or 640:151 and 640:135 and 640:121 and 750:131,,,3.54
+640:152,Calculus II,640:135 or 640:151 or 640:135 or 640:155 or 640:121 or 640:135,,,4.01
+750:124,Analytical Physics IB,750:115 or 750:123,,,4.23
+332:221,Principles of Electrical Engineering I,640:152 and 640:154 and 640:192 and 750:124 or 640:152 and 640:154 and 640:192 and 750:116 or 640:152 and 640:154 and 640:192 and 750:201 or 640:152 and 640:154 and 640:192 and 750:203 or 640:152 and 640:154 and 640:192 and 750:271,,,3.98
+332:223,Principles of Electrical Engineering I Lab,640:152 and 640:154 and 640:192 and 750:124 or 640:152 and 640:154 and 640:192 and 750:116 or 640:152 and 640:154 and 640:192 and 750:201 or 640:152 and 640:154 and 640:192 and 750:203 or 640:152 and 640:154 and 640:192 and 750:271,,,4.09
+332:231,Digital Logic Design,640:152 and 640:154 and 640:192 and 750:123 or 640:152 and 640:154 and 640:192 and 750:116 or 640:152 and 640:154 and 640:192 and 750:201 or 640:152 and 640:154 and 640:192 and 750:203 or 640:152 and 640:154 and 640:192 and 750:271,,,3.47
+332:233,Digital Logic Design Lab,640:152 and 640:154 and 640:192 and 750:123 or 640:152 and 640:154 and 640:192 and 750:116 or 640:152 and 640:154 and 640:192 and 750:201 or 640:152 and 640:154 and 640:192 and 750:203 or 640:152 and 640:154 and 640:192 and 750:271,,,3.97
+640:251,Multivariable Calculus,640:152 or 640:192 or 640:136 or 640:156 or 640:122,,,3.89
+750:227,Analytical Physics IIA + Lab,750:116 and 750:124 and 750:271 and 640:152,3,Fall,3.78
+332:222,Principles of Electrical Engineering II,332:221 and 750:234 and 640:251 or 640:221 and 640:235 and 332:221 or 640:291 and 640:235 and 332:221,,,3.98
+332:224,Principles of Electrical Engineering II Lab,332:221 or 332:223,,,4.05
+332:226,Probability & Random Processes,640:251 or 640:291,,,2.71
+332:252,Programming Methodology I,440:127,,,2.99
+640:244,Differential Equations,640:243 or 640:251 or 640:291 or 640:235 or 640:235,,,4.08
+332:331,Computer Architecture,332:231 or 332:233,,,3.98
+332:333,Computer Architecture Lab,332:231 or 332:233,,,3.59
+332:345,Linear Systems & Signals,332:222 and 640:244 and 640:244 and 640:244 or 332:222 and 640:314 and 640:314 and 640:314 or 332:222 and 640:314 and 640:314 and 640:314 or 332:222 and 640:292 and 640:292 and 640:292 or 332:222 and 640:252 and 640:252 and 640:252,,,4.0
+332:361,Electronic Devices,332:222,,,3.9
+332:363,Electronic Devices Lab,332:222 or 332:224,,,3.21
+Humanities Elective,Humanities/Social Science Elective (200+),,,,
+332:4XX,Restricted Electrical Elective,,,,
+332:312,Discrete Mathematics,640:251 or 640:291,,,3.14
+332:346,Digital Signal Processing,332:345 or 440:127,,,2.34
+332:348,Digital Signal Processing Lab,332:345 or 440:127,,,2.46
+332:393,Professionalism & Ethics,,,,4.27
+332:366,Digital Electronics,332:361 or 332:363,,,4.02
+332:368,Digital Electronics Lab,332:361 or 332:363,,,
+540:343,Engineering Economics,,,,4.52
+332:449,Intro to Capstone Design,,,,4.07
+332:4XX,Electrical Elective,,,,
+332:4XX,Electrical Elective,,,,
+Technical Elective,Technical Elective,,,,
+Humanities Elective,Humanities/Social Science Elective (200+),,,,
+Math/Sci/Eng Elective,Math/Science/Engineering Elective,,,,
+332:448,Capstone Design in ECE,332:345 or 332:449,,,4.07
+332:4XX,Electrical Elective,,,,
+Technical Elective,Technical Elective,,,,
+General Elective,General Elective,,,,

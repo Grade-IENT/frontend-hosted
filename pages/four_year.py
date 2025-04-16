@@ -10,7 +10,7 @@ sys.path.append(str(Path(__file__).resolve().parents[1]))
 from course_scheduler import build_plan, DEFAULT_MIN_CR, DEFAULT_MAX_CR
 
 # ─────────────── Paths & Constants ───────────────
-DATA_DIR = Path(__file__).resolve().parents[2] / "backend" / "4_Year_input_Data"
+DATA_DIR = Path(__file__).resolve().parents[1] / "4_Year_input_Data"
 AP_CREDIT_CSV = DATA_DIR / "rutgers_ap_credits.csv"
 
 MAJOR_CSV = {

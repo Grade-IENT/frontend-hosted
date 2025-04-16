@@ -1,0 +1,464 @@
+Course Code,Course Name,SQI
+160:126,Chemistry Of Art,4.11
+160:127,Impact Of Chemistry,2.92
+160:128,Chemistry Of Life,3.07
+160:133,Prep For Gen Chem,4.09
+160:134,Intro To Chemistry,4.12
+160:159,Gen Chem For Engrs,3.21
+160:161,General Chemistry,3.68
+160:162,General Chemistry,3.64
+160:163,Honors General Chem,3.97
+160:165,Extended General Chm,4.03
+160:171,Intr Experimentation,4.08
+160:191,Topics In Chemistry,2.13
+160:209,Element Organic Chem,2.7
+160:211,Elem Organic Lab,3.41
+160:251,Analytical Chemistry,3.39
+160:307,Organic Chemistry,3.43
+160:308,Organic Chemistry,3.58
+160:310,Organic Chem Lab,3.46
+160:311,Organic Chem Lab,3.56
+160:315,Honors Organic Chem,3.85
+160:327,Phys Chemistry I,3.1
+160:348,Instrumental Anal,3.11
+160:361,Chemical Bonding,2.32
+160:371,Inorganic Chemistry,1.93
+160:387,Intro Chemistry Educ,4.45
+160:411,Adv Organic Chem I,4.41
+160:437,Phys Chem Bio System,4.33
+160:491,Sem In Chemistry,4.12
+160:493,Intern In Chemistry,4.14
+160:499,Intro Tch Chem Lab,3.97
+160:337,Recitation In Organic Chemistry,3.88
+160:351,Inorganic Chemistry 1,3.07
+160:391,Independent Study In Chemistry,4.27
+160:471,Advanced Inorg Chem,3.94
+160:495,Senior Research Project:  Chemistry,4.3
+160:353,Inorganic Chemistry 3,4.31
+160:425,Thermodynamics I,4.13
+160:459,Electroanalytic Chemistry,4.34
+160:342,Phys Chem:biochemsys,4.3
+160:421,Atomic & Molec Strct,4.12
+160:409,Org Chem High Polymr: Org Chem Polymr,4.54
+160:160,Gen Chem For Engrs,3.0
+160:164,Honors General Chem,4.26
+160:166,Extended General Chemistry,4.25
+160:309,Organic Chem Lab,2.97
+160:316,Honors Organic Chemistry,4.03
+160:328,Physical Chemistry II,3.99
+160:329,Exper Physical Chem,4.2
+160:338,Recitation In Organic Chemistry,4.14
+160:352,Inorganic Chemistry 2,3.72
+160:392,Indpt Studies Chem,4.45
+160:415,Theor&intrp Org Spec,3.65
+160:438,Intro To Comp Chem,4.37
+160:451,Analyt Spectroscopy: Analytical Spectroscopy,4.28
+160:461,Concepts In Nanochemistry,4.31
+160:475,Organometallic Chem,4.23
+160:477,Solid State Chemistry,3.62
+160:482,Chemical Biology,4.2
+160:492,Sem In Chemistry,3.92
+160:494,Internship In Chemistry,4.36
+160:341,Phys Chem:biochemsys,3.59
+198:110,Intro Computers&appl,4.05
+198:111,Intro Computer Science,3.71
+198:112,Data Structures,3.84
+198:170,Comp Apps-Business,3.8
+198:205,Intr Discret Strct I,3.73
+198:206,Introduction To Discrete Structures II,3.8
+198:211,Computer Architectur,3.74
+198:213,Software Methodology,3.79
+198:214,Systems Programming,3.43
+198:294,Indep Study Computer Science,4.24
+198:314,Prin Prog Languages,3.63
+198:323,Numer Anal Computing,3.69
+198:336,Prin Info & Data Mgt,3.75
+198:344,Dsgn&anal Comp Algor,3.92
+198:352,Internet Technology,3.87
+198:416,Oper System Design,3.96
+198:419,Computer Security,3.73
+198:431,Software Engineering,3.7
+198:439,Intro Data Science,3.75
+198:440,Introduction To Artificial Intelligence,4.05
+198:442,Topics In Comp Sci: Probablistic Algorithms,1.0
+198:443,Tpcs In Computer Sci: Advanced Topics In Cognitive,3.58
+198:460,Intro Comp Robotics,3.59
+198:105,Great Insights In Computer Science,3.19
+198:107,Comput Math & Scienc,3.82
+198:142,Data 101,3.16
+198:210,Data Management For Data Science,3.64
+198:334,Introduction To Imaging And Multimedia,3.43
+198:417,Distributed Systems: Concepts And Design,4.01
+198:428,Introduction To Computer Graphics,3.84
+198:437,Database Systems Implementation,3.4
+198:452,Formal Lang&automata,4.08
+198:461,Machine Learning Principles,3.73
+198:310,Data Science Capstone Project,3.38
+198:445,Topics In Computer Science: Algorithms In The Wild,3.72
+198:495,Computer Science Honors Capstone        Program,4.18
+198:345,Algorithms In Society,4.18
+198:462,Introduction To Deep Learning,3.95
+198:103,Introduction To Computer Infrastructure,3.82
+198:405,Sem Computer&society,3.43
+198:415,Compilers,3.75
+198:425,Brain-Inspired Computing,4.23
+198:496,Computer Science Honors Capstone        Program,4.31
+198:463,Design And Analysis Of Randomized       Algorithms,4.34
+125:201,Intro Biomedical Eng,3.88
+125:255,System Physiology,2.61
+125:303,Biomed Transp Phenom,3.86
+125:304,Biomaterial,4.08
+125:305,Numer Modl&biomd Sys,4.07
+125:306,Biomed Kinet & Therm,3.84
+125:308,Biomechanics,3.72
+125:309,Bme Devices & System,3.05
+125:310,Bme Device & Sys Lab,3.27
+125:401,Senior Design I Lec,3.73
+125:403,Cardiovasc Eng,4.03
+125:409,Intro To Prosthetics,3.77
+125:411,Bioelectric Systems,4.07
+125:417,Musculoskeletal Mech,4.08
+125:433,Fund Of Tissue Engg,3.89
+125:445,Prin Drug Delivery,4.37
+125:465,Bme Microfluidics,4.23
+155:201,Cheme Mat Energy Bal,3.55
+155:298,Prof Skills Dev,4.38
+155:303,Trans Phen Chem E I,4.03
+155:307,Cheme Comp Method,3.66
+155:309,Chem Eng Thermo II,4.23
+155:411,Biochemical Engg,3.91
+155:415,Proc Engg Lab I,3.74
+155:422,Proc Sim Ctrl,3.88
+155:427,Cheme Design I,3.83
+180:243,Mechanics Of Solids,3.76
+180:305,Construction Engg,4.55
+180:318,Elemts Of Structures,3.25
+180:331,Elemts Environm Engg,3.65
+180:387,Fluid Mechanics,3.74
+180:406,Construc Eng Managmt,3.68
+180:411,Reinforced Concrete,4.01
+180:413,Theory Indeter Struc,4.38
+180:429,Water&wastewtr Engg,3.83
+180:430,Intro Trans Planning,3.73
+180:473,Foundation Engg,3.75
+332:221,Prin Elec Engg I,3.98
+332:222,Prin Elec Engg II,3.98
+332:231,Digital Logic Design,3.47
+332:312,Discrete Math Ece,3.14
+332:331,Comp Arch & Asm Lang,3.98
+332:345,Linear Sys & Signals,4.0
+332:361,Electronics Devices,3.9
+332:366,Digital Electronics,4.02
+332:373,Elem of Elec Engg,4.15
+332:402,Sustainable Energy,4.05
+332:417,Control Systm Design,3.5
+332:421,Wireless Commun Sys,3.35
+332:424,Intro-Info&netw Sec,4.26
+332:435,Topics In Ece: Computing Principle For Mobile Embe,4.24
+332:436,Topics In Ece: Biomedical Tech Design & Develop,4.24
+332:437,Digital Syst Design,3.34
+332:445,Topics In Ece: Machine Learning For Engineers,4.09
+332:449,Intro Capstone Ece,4.07
+332:451,Parallel & Dist Prog,3.97
+332:452,Software Engineering,2.75
+332:453,Mobile App Engg,2.97
+332:460,Power Electronics,4.16
+332:463,Analog Electronics,4.1
+332:465,Physical Electronics,3.86
+332:472,Robotics&comp Vision,4.1
+332:479,Vlsi Design,4.28
+332:481,Electromagnetic Waves,3.89
+332:493,Topics In Ece: Introduction To Quantum Info Scienc,4.05
+332:494,Topics in ECE: Cloud Computing,4.09
+440:115,Dellc Intr To Eng,3.93
+440:127,Int Computer For Eng,3.99
+440:191,Honors Intro Engg I,4.12
+440:221,Eng Mech-Statics,3.54
+440:222,Eng Mech-Dynamics,3.67
+440:291,Honors Eng Mech-Stat,3.51
+440:292,Honors Eng Mech-Dyna,3.29
+440:298,Skills To Succeed: Professional Development: Hire,4.51
+440:301,Intro Packaging Eng,3.7
+440:371,Packaging Eval Mtds,2.52
+440:373,Pkgg Manufacturing,4.02
+440:378,Sustainable Packag'g,4.23
+440:419,Innovation & Design,4.06
+540:201,Work Design & Ergo,3.95
+540:320,Engr Statistics,3.87
+540:338,Prob Models In Or,3.94
+540:343,Engineerng Economics,4.52
+540:382,Computer Cont Of Mfg,3.81
+540:400,Des Engr Sys II,3.39
+540:433,Quality Engineering,4.36
+540:453,Production Control,3.39
+540:491,Special Problems: Reliability,3.74
+635:203,Intro Matls Sci Engg,4.08
+635:205,Crystal Chem& Struct,3.63
+635:305,Matls Microproc,2.77
+635:307,Kinetics Of Mat Proc,4.43
+635:309,Charact Of Materials,3.76
+635:312,Glass Engineering,3.73
+635:353,Lab II,3.96
+635:360,Mse Ceramics,4.44
+635:362,Physical Metallurgy,4.32
+635:403,Mse Seminar,4.16
+635:404,Mse Seminar,4.11
+635:405,Solar Cell Dsgn Proc,4.29
+635:407,Mechanical Properties Of Materials,4.13
+635:412,Mse Eng'g Design II,4.54
+635:413,Mse Venture Analysis,4.5
+650:210,Intro Aero Eng,3.85
+650:289,Prof Development Mae,4.04
+650:291,Mech Materials,3.31
+650:312,Fluid Mechanics,4.03
+650:342,Design Mech Compnts,3.68
+650:350,Mech Eng Mes W/lab,3.27
+650:351,Thermodynamics,3.65
+650:361,Intro Mechantronics,3.67
+650:388,Cad In Mech Engg,3.46
+650:401,Dyn Sys & Cntl,3.52
+650:431,Mech Engg Lab I,3.6
+650:439,Multiphysics Simu,3.89
+650:451,Vehicle Dynamics,3.6
+650:455,Design Of Mechanisms,3.83
+650:457,Spacecraft/mis De,4.15
+650:462,Power Plants,4.03
+650:465,Orbital Mechanics,3.5
+650:467,Design & Mfg. I,3.99
+650:474,Alt Energy I,3.66
+650:481,Heat Transfer,3.82
+650:487,Ae Design 1,3.9
+125:499,Topics In Biomedical Engineering: Health Tech In Situ: Data & Enterprise,4.06
+332:223,Principles Of Electrical Engineering I Lab,4.09
+332:224,Principles Of Electrical Engineering II Lab,4.05
+332:233,Digital Logic Design Lab,3.97
+332:333,Computer Architecture Lab,3.59
+332:351,Progrm Methodologyii,3.85
+332:363,Electronic Devices Lab,3.21
+332:448,Capstone Design Ece,4.07
+440:302,Cad For Packaging Engineering,3.99
+440:470,Packaging Lab I,2.69
+540:434,Quality Engr Lab,4.24
+540:487,Energy Systems Model,4.2
+635:316,Eom Prop Of Matls,3.84
+635:402,Senior Mse Lab,3.86
+125:424,Biomed Instrumnt Lab,4.08
+332:443,Machine Learning For Engineers,3.93
+332:466,Opto-Electronics Devices,2.05
+635:252,Lab I,4.35
+650:447,Probabilistic Models,2.65
+125:498,Topics In Biomedical Engineering,4.26
+332:446,Topics In Electrical & Computer Engineering: Distributed Deep Learning,4.41
+440:107,Method Of Inquiry For Engineers,3.53
+125:315,Bme Measur & Analys,3.95
+125:402,Senior Design II Lec,3.48
+125:431,Intro Opticl Imaging,3.47
+125:434,Tissue Eng II,4.02
+125:455,Bme Global Health,4.15
+125:470,Advanced Biomedical Devices Lab,4.2
+125:494,Bme Ha Adv Res II,3.64
+155:208,Chemical Engineering Thermodynamics I,3.83
+155:210,Biological Foundations in Chemical Engineering,4.07
+155:304,Transport Phenomena In Chemical Engineering II,3.93
+155:324,Separation Processes,3.99
+155:341,Chemical Engineering Kinetics,3.94
+155:416,Process Engineering II (Lab),3.77
+155:428,Chemical Engineering Design,3.91
+180:320,Elemts Struct Design,4.43
+180:364,Transportation Eng I,3.68
+180:372,Soil Mechanics,3.56
+180:382,Hydraulic&envir Engg,3.96
+180:407,Construction Proj,3.1
+180:426,Structural Design,3.78
+180:431,Dsgn Env Eng Facilit,3.77
+180:448,Elements Hydrology,3.92
+180:474,Geotechnical Eng Des,4.34
+180:482,Prof Issues Civil En,3.68
+332:226,Probability & Random Processes,2.71
+332:252,Programming Methodology I,2.99
+332:301,Wireless Revolution: Wireless Revolution,4.46
+332:322,Principles Of Communication Systems,3.52
+332:346,Digital Signal Processing,2.34
+332:376,Virtual Reality,4.29
+332:378,Virtual Reality Lab,4.0
+332:382,Electromagnetic Fields,4.09
+332:393,Professionalism/ethics,4.27
+332:411,Electrical Energy Conversion,4.15
+332:423,Computer & Communication Networks,3.81
+332:434,Introduction To Computer Systems,3.26
+332:456,Network Centric Programming,4.01
+332:464,Rf Integrated Circuit Design,3.54
+332:467,Microelectronic Processing: Microelectronics Processing,4.28
+440:406,Packaging Printing And Decoration,4.44
+440:418,Packaging Development Process,3.77
+440:420,Packaging Senior Design II,4.04
+440:468,Packaging Machinery,4.1
+440:471,Distribution Pkg,3.34
+440:473,Packaging Lab II,3.43
+440:477,Packaging Manufacturing II,4.2
+540:210,Eng Probability,3.26
+540:303,Manufacturing Procss,2.67
+540:311,Deter Models Op Res,3.91
+540:384,Simulation Modls I E,4.11
+540:399,Design Engr System I,3.3
+540:461,Engineering Law: Engineering Law,4.28
+540:462,Fac Layout & Mh,4.07
+540:485,Industrial Informatics: Industrial Data Analytics,4.49
+540:492,Special Problems: Intro To Reliability,3.82
+635:204,Materials Processing,2.58
+635:206,Thermo Of Materials,4.25
+635:212,Physics Of Materials,4.39
+635:314,Strength Of Mat,4.48
+635:320,Int To Nanomaterials,4.19
+635:401,Senior Mse Lab,3.96
+635:411,Mse Eng'g Design I,3.95
+635:416,Phys&chem Prop Glass,3.11
+635:440,Electrochemical Devices,3.85
+650:432,Mech Engg Lab II,3.59
+650:433,Aerospace Engr Lab,3.59
+650:435,Energy Systems Lab,3.69
+650:449,Aerospace Materials,3.41
+650:458,Aerospace Structures,3.39
+650:459,Aerospace Propulsion,3.71
+650:460,Aerodynamics,4.15
+650:461,Int Comb Engines,3.47
+650:463,Comprs Fluid Dynamcs,4.2
+650:468,Design & Mfg 2,3.99
+650:471,Aircraft Flight Dyn,2.87
+650:478,Me Aspects Elec Pkgg,4.33
+650:485,Computing Environmen,4.22
+650:488,Aerospace Engineering Design 2,3.77
+125:490,Bme Ha Research II,2.52
+180:438,Transportatn Engg II,3.97
+332:348,Digital Signal Processing Lab,2.46
+635:361,Mse Of Polymers,2.92
+180:374,Soil Mechanics Lab,3.94
+635:354,Lab III,3.89
+640:001,Computational Skills,4.14
+640:025,Elementary Algebra,4.02
+640:026,Intermediate Algebra,3.97
+640:103,Topics Math Lib Arts,4.34
+640:104,Intro To Probability: Intro. To Probability,4.15
+640:106,Mathematics Of Money,4.25
+640:107,Number&oper For K-8,4.42
+640:109,Geo&meas Midle Tchng,4.2
+640:111,Precalc Part 1,3.97
+640:112,Precalc Part 2,4.14
+640:115,Precalc College Math,3.99
+640:123,Prep For Calc I,4.31
+640:135,Calc I Life&soc Sci,3.97
+640:136,Calc II Life&soc Sci,3.88
+640:151,Calc I Math/phys,3.94
+640:152,Calc II Math/phys,4.01
+640:244,Diff Eqs/engr&phys,4.08
+640:250,Intro Linear Algebra,3.97
+640:251,Multivariable Calc,3.89
+640:252,Elem Diff Equations,3.94
+640:285,Intro Interest Theor,3.85
+640:300,Intro Math Reasoning,4.12
+640:311,Intro Real Anal I,4.08
+640:321,Intro Applied Math,3.96
+640:325,Found Quant Mechancs,3.65
+640:336,Dynam Models Bio,3.72
+640:350,Linear Algebra,4.03
+640:351,Intro Abstr Algeb I,4.12
+640:354,Linear Optimization,4.06
+640:356,Theory Of Numbers,3.89
+640:361,Set Theory,3.75
+640:373,Numerical Analysis I,3.9
+640:411,Math Analysis I,3.99
+640:421,Adv Calc For Engrng,3.84
+640:423,Elem Prtl Diff Eqtns,3.72
+640:428,Graph Theory,4.01
+640:435,Geometry,3.82
+640:441,Intro Topology I,4.22
+640:451,Abstract Algebra I,3.46
+640:454,Combinatorial Theory,3.85
+640:477,Math Theory Prob,4.02
+640:478,Intro Stochastic Pro,3.92
+640:481,Math Theory Stat,3.91
+640:485,Intro Math Finance,3.97
+640:486,Math Lfe Cont Risk I,4.13
+640:291,Honors Calculus III,3.85
+640:437,History Of Mathematics,3.93
+640:491,Undergraduate Mathematics Seminar,4.16
+640:125,Methods Of Mathematical Problem         Solving,4.23
+640:157,Calc I Mat/phy Prac,4.26
+640:158,Calc II Mat/phy Prac,4.17
+640:130,Business Calculus,4.04
+640:110,Algebra For Middle School Teachers,4.31
+640:292,Honors Calculus IV,3.97
+640:312,Introduction To Real Analysis II,3.64
+640:338,Disc&prob Models Bio,3.59
+640:348,Cryptography,3.85
+640:357,Topics Applied Algeb,3.65
+640:403,Intro Complex Var,3.42
+640:412,Math Analysis II,4.01
+640:432,Intro Diff Geometry,4.45
+640:452,Abstract Algebra II,4.05
+640:487,Mathematics Of Life Contingent Risk Models II,4.2
+640:492,Math Seminar,3.57
+640:196,Sem In Mathematic II,4.11
+640:442,Intro Topology II,3.38
+640:461,Math Logic,3.62
+640:488,Mathematics Of Short-Term Risk Models,4.08
+640:495,Sel Topics In Math: Math Adventures In One-Dimensional Phys,3.81
+750:109,Astronomy&cosmology,3.93
+750:115,Extended Analytic I,3.96
+750:123,Analytical Physics I,4.21
+750:161,Elements Of Physics,3.26
+750:193,Physics For Sciences,4.46
+750:202,Extended Gen Physics,4.42
+750:203,General Physics,4.03
+750:204,General Physics,4.08
+750:205,General Physics Lab,4.0
+750:206,General Physics Lab,4.11
+750:227,Analyt Physics II,3.78
+750:229,Anal Phys II Lab,4.08
+750:271,Honors Physics I,3.72
+750:273,Honors Physics III,3.6
+750:275,Classical Phys Lab I,3.89
+750:305,Modern Optics,3.67
+750:323,Adv General Phy I,4.1
+750:326,Computer-Based Exper,3.85
+750:341,Principles Astrophys,4.3
+750:381,Mechanics,3.76
+750:385,Electromagnetism,4.1
+750:387,Exp Modern Physics,4.0
+750:444,Intro To Cosmology,4.14
+750:451,Physical Oceanograph,4.17
+750:464,Mathematical Physics,3.49
+750:110,Astronomy & Cosmology,4.15
+750:313,Modern Physics,3.47
+750:345,Computational Astrophysics,4.34
+750:361,Quantum & Atomic Phy,4.05
+750:368,Junior Seminar,4.16
+750:418,Nuclei And Particles,4.55
+750:442,High Energy Astrophysics And Radiative  Processes,3.89
+750:228,Analytical Physics Iib,3.75
+750:230,Analytical Physics II Laboratory,4.05
+750:155,Introduction To Research And Research Communities In Physics & Astronomy,4.13
+750:106,Concepts Of Physics,3.33
+750:116,Extended Analytic I,4.25
+750:124,Analytical Physics I,4.23
+750:140,Greenhouse Effect,4.41
+750:194,Physics For The Sciences,4.46
+750:201,Extended Gen Physics,4.34
+750:272,Honors Physics II,3.94
+750:276,Classical Physics Lab II,2.83
+750:301,Physics Of Sound,2.04
+750:324,Advanced General Physics II,3.38
+750:327,Mod Instrumentation,4.46
+750:342,Principles Astrophys,4.23
+750:346,Observational Astronomy,4.26
+750:351,Thermal Physics,3.94
+750:382,Mechanics,4.0
+750:386,Electromagnetism,4.38
+750:388,Exp Modern Physics,3.68
+750:397,Phys Of Mod Devices,3.94
+750:417,Intermed Quantum,3.84
+750:421,Introduction To Quantum Computing,4.29
+750:441,Stars & Star Formation,4.47
+750:406,Intro Sol State Phys,2.61
+750:443,Galaxies & Milky Way,4.06
+750:488,Special Topics In Physics,3.87

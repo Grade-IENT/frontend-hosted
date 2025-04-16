@@ -1,0 +1,42 @@
+Course Code,Course Name,Prerequisites,Credits,Semester Offered,SQI
+160:159,General Chemistry for Engineers,640:103 or 640:104 or 640:112 or 640:115 or 640:135 or 640:151,,,3.21
+160:171,Intro to Experimentation,160:159 or 160:161 or 160:163 or 160:165 or 160:115 or 160:115,,,4.08
+355:101,College Writing,,3," Spring, Fall", 3
+440:101, Introduction to Data-Driver Design for Engineering Applications,,2, Fall, 5
+440:102, Introduction to Data-Driver Design for Engineering Applications II,,2, Spring, 5
+640:151,Calculus I,640:113 and 640:114 and 640:112 or 640:113 and 640:114 and 640:115,,,3.94
+750:123,Analytical Physics IA,,,,4.21
+160:160,General Chemistry for Engineers,640:112 and 640:115 and 160:159,,,3.0
+640:152,Calculus II,640:135 or 640:151 or 640:135 or 640:155 or 640:121 or 640:135,,,4.01
+750:124,Analytical Physics IB,750:115 or 750:123,,,4.23
+440:221,Engineering Mechanics (Statics),640:151 and 640:121 and 640:135 and 750:123 or 640:151 and 640:191 and 640:135 and 750:203 or 750:202 and 750:271 and 750:115 and 640:151 or 640:151 and 640:191 and 640:135 and 750:271 or 640:151 and 640:121 and 640:135 and 750:213 or 640:151 and 640:135 and 640:121 and 750:131,,,3.54
+Humanities Elective,Humanities/Social Science Elective,,,,
+640:251,Multivariable Calculus,640:152 or 640:192 or 640:136 or 640:156 or 640:122,,,3.89
+750:227,Analytical Physics IIA + Lab,750:116 and 750:124 and 750:271 and 640:152,3,Fall,3.78
+540:201,Work Design & Ergonomics,640:151 or 640:191 or 640:135 or 640:121,,,3.95
+540:202,Work Design Lab,640:151 or 640:191 or 640:135 or 640:121,,,
+540:213,Industrial Engineering Lab,640:151 and 640:191 and 640:135 and 440:127 or 640:151 and 640:191 and 640:121 and 440:127 or 640:151 and 640:135 and 640:121 and 440:127 or 640:191 and 640:135 and 640:121 and 440:127,,,
+640:244,Differential Equations,640:243 or 640:251 or 640:291 or 640:235 or 640:235,,,4.08
+540:210,Engineering Probability,640:152 or 640:192 or 640:136 or 640:122,,,3.26
+540:343,Engineering Economics,,,,4.52
+355:302,Scientific & Technical Writing,,,,
+440:222,Engineering Mechanics (Dynamics),640:152 and 640:154 and 640:192 and 440:221 or 640:152 and 640:154 and 640:192 and 440:291 or 640:152 and 640:122 and 640:136 and 440:221 or 640:152 and 640:122 and 640:136 and 440:291,,,3.67
+540:320,Engineering Statistics,540:210,,,3.87
+540:338,Probability Models in Operations Research,640:244 and 640:314 and 640:314 and 540:210,,,3.94
+540:382,Automation,640:244 and 640:314 and 640:314 and 750:227,,,3.81
+540:383,Automation Lab,640:244 and 640:314 and 640:314 and 750:227,,,
+540:311,Deterministic Models in OR,640:244 or 640:314 or 640:314,,,3.91
+180:215,Engineering Graphics,440:127 or 198:151 or 198:101 or 198:111,,,
+540:303,Manufacturing Processes,635:407,,,2.67
+540:304,Manufacturing Processes Lab,635:407,,,
+540:384,Simulation Models in Industrial Engineering,540:338,,,4.11
+540:399,Design of Engineering Systems I,540:382 or 540:338 and 540:383,,,3.3
+540:400,Design of Engineering Systems II,540:303 or 540:304 and 540:384 and 540:399,,,3.39
+540:433,Quality Engineering,540:320,,,4.36
+540:434,Quality Engineering Lab,540:320,,,4.24
+540:453,Production Planning & Control,540:311 or 540:338,,,3.39
+540:487,Energy Systems Modeling & Optimization,540:311,,,4.2
+540:462,Facilities Layout & Material Handling,540:201 or 540:202 and 540:303 and 540:304,,,4.07
+540:485,Industrial Information Systems,540:320,,,4.49
+Capstone Design,Capstone Design Course,,,,
+Technical Elective,Technical Elective,,,,

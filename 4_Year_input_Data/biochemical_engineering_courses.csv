@@ -1,0 +1,31 @@
+Course Code,Course Name,Prerequisites,Credits,Semester Offered,SQI
+440:101, Introduction to Data-Driver Design for Engineering Applications,,2, Fall, 5
+440:102, Introduction to Data-Driver Design for Engineering Applications II,,2, Spring, 5
+160:159,General Chemistry for Engineers,640:103 or 640:104 or 640:112 or 640:115 or 640:135 or 640:151,,,3.21
+160:171,Introduction to Experimentation,160:159 or 160:161 or 160:163 or 160:165 or 160:115 or 160:115,,,4.08
+355:101,College Writing,,3," Spring, Fall", 3
+640:151,Calculus for Mathematical and Physical Sciences I,640:113 and 640:114 and 640:112 or 640:113 and 640:114 and 640:115,,,3.94
+750:123,Analytical Physics I,,,,4.21
+160:160,General Chemistry for Engineers II,640:112 and 640:115 and 160:159,,,3.0
+640:152,Calculus for Mathematical and Physical Sciences II,640:135 or 640:151 or 640:135 or 640:155 or 640:121 or 640:135,,,4.01
+750:124,Analytical Physics IB,750:115 or 750:123,,,4.23
+440:221,Engineering Mechanics: Statics,640:151 and 640:121 and 640:135 and 750:123 or 640:151 and 640:191 and 640:135 and 750:203 or 750:202 and 750:271 and 750:115 and 640:151 or 640:151 and 640:191 and 640:135 and 750:271 or 640:151 and 640:121 and 640:135 and 750:213 or 640:151 and 640:135 and 640:121 and 750:131,,,3.54
+Humanities Elective,Humanities/Social Science Elective,,,,
+155:201,Material & Energy Balances,640:152 and 640:154 and 640:192 and 160:160 or 640:152 and 640:154 and 640:192 and 160:162 or 640:152 and 640:154 and 640:192 and 160:116 or 640:152 and 640:154 and 640:192 and 160:116 or 640:152 and 640:136 and 640:122 and 160:116 or 640:152 and 640:136 and 640:122 and 160:116,,,3.55
+155:298,Professional Skills Development,,,,4.38
+160:307,Organic Chemistry I,160:160 or 160:162 or 160:164 or 160:116 or 160:166 or 160:116,,,3.43
+640:251,Multivariable Calculus,640:152 or 640:192 or 640:136 or 640:156 or 640:122,,,3.89
+750:227,Analytical Physics IIA + Lab,750:116 and 750:124 and 750:271 and 640:152,3,Fall,3.78
+155:208,Thermodynamics I,155:201,,,3.83
+155:303,Transport Phenomena I,155:208 or 640:244,,,4.03
+155:307,Computational Methods in Chemical Engineering,640:244 and 155:201 and 440:127 and 440:127 or 640:244 and 155:201 and 198:101 and 198:101 or 640:244 and 155:201 and 198:151 and 198:151 or 640:314 and 155:201 and 440:127 and 440:127 or 640:314 and 155:201 and 198:101 and 198:101 or 640:314 and 155:201 and 440:127 and 440:127,,,3.66
+155:309,Thermodynamics II,155:208,,,4.23
+447:390,General Microbiology,,,,
+Technical Elective,Technical Elective,,,,
+155:304,Transport Phenomena II,155:303 or 155:309,,,3.93
+155:411,Biochemical Engineering,155:210 or 155:303 and 155:307 and 155:309,,,3.91
+155:415,Process Engineering Lab I,155:304 or 155:324 and 155:341,,,3.74
+155:422,Process Simulation & Control,155:307 or 155:324 and 155:341,,,3.88
+155:416,Processing Engineering Lab II,155:415 or 155:341,,,3.77
+155:428,Design II,155:415,,,3.91
+General Elective,General Elective,,,,
