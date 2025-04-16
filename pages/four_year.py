@@ -24,7 +24,7 @@ MAJOR_CSV = {
     "Electrical Engineering":               "electrical_engineering_courses.csv",
     "Industrial and Systems Engineering":    "industrial_systems_engineering_courses.csv",
     "Materials Science Engineering":         "materials_science_engineering_courses.csv",
-    "Mechanical Engineering":                "mechanical_aerospace_courses.csv",
+    "Mechanical Engineering":                "mechanical_engineering_courses.csv",
     "Packaging Engineering":                "packaging_engineering_courses.csv",
 }
 
@@ -172,6 +172,13 @@ if build_btn and major in majors:
                 parsed_df.columns = ["Course_Code", "Course_Name", "Credits", "SQI"]
 
                 st.markdown(f"**{sem_name}** — Total Credits: **{sem_credits[sem_idx]}**")
+
+                valid_sqis = [row["SQI"] for row in parsed if isinstance(row["SQI"], float)]
+                if valid_sqis:
+                    avg_sqi = sum(valid_sqis) / len(valid_sqis)
+                    st.markdown(f"Average SQI: **{avg_sqi:.2f}**")
+                else:
+                    st.markdown("Average SQI: **N/A**")
 
                 parsed_df = pd.DataFrame(parsed, index=None)
                 parsed_df.columns = ["Course Code", "Course Name", "Credits", "SQI"]
