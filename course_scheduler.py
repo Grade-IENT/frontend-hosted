@@ -30,8 +30,8 @@ from typing import Dict, List, Tuple
 from copy import deepcopy
 
 # Constants
-DATA_DIR = Path("backend/4_Year_input_Data")
-AP_CREDIT_CSV = "backend/4_Year_input_Data/rutgers_ap_credits.csv"
+DATA_DIR = Path("4_Year_input_Data")
+AP_CREDIT_CSV = "4_Year_input_Data/rutgers_ap_credits.csv"
 COURSE_RE = re.compile(r"(\d{3}:[0-9xX]{3})", re.IGNORECASE)
 
 DEFAULT_MIN_CR = 12
