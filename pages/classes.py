@@ -74,7 +74,7 @@ with st.container():
                    co.course_name AS co_req_name,
                    c.SQI
             FROM Class c
-            LEFT JOIN Class pre ON c.pre_req = pre.id
+            LEFT JOIN Class pre ON c.pre_req_group = pre.id
             LEFT JOIN Class co ON c.co_req = co.id
             WHERE LOWER(c.course_code) LIKE %s OR LOWER(c.course_name) LIKE %s
             """
