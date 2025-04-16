@@ -173,13 +173,13 @@ if build_btn and major in majors:
 
                 st.markdown(f"**{sem_name}** — Total Credits: **{sem_credits[sem_idx]}**")
 
-                # valid_sqis = [row["SQI"] for row in parsed if isinstance(row["SQI"], float)]
-                # if valid_sqis:
-                #     avg_sqi = sum(valid_sqis) / len(valid_sqis)
-                #     st.markdown(f"Average SQI: **{avg_sqi:.2f}**")
-                # else:
-                #     st.markdown("Average SQI: **N/A**")
-                st.markdown('Test Website Update')
+                valid_sqis = [row["SQI"] for row in parsed if isinstance(row["SQI"], float)]
+                st.markdown(str(valid_sqis))
+                if valid_sqis:
+                    avg_sqi = sum(valid_sqis) / len(valid_sqis)
+                    st.markdown(f"Average SQI: **{avg_sqi:.2f}**")
+                else:
+                    st.markdown("Average SQI: **N/A**")
 
                 parsed_df = pd.DataFrame(parsed, index=None)
                 parsed_df.columns = ["Course Code", "Course Name", "Credits", "SQI"]
