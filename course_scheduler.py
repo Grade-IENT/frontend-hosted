@@ -91,7 +91,7 @@ def load_catalog(csv_path: Path) -> None:
     prereq_of = cat["Prereq"].to_dict()
 
 # AP Credit Handler Functions
-ap_df = pd.read_csv("../"+AP_CREDIT_CSV, dtype=str)
+ap_df = pd.read_csv("./"+AP_CREDIT_CSV, dtype=str)
 ap_df["Score"] = pd.to_numeric(ap_df["Score"], errors="coerce")
 
 def ap_fulfilled(ap_scores: Dict[str, int]) -> set[str]:
