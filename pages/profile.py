@@ -44,16 +44,16 @@ with st.container():
      left, middle, right = st.columns(3)
      with left:          
         if st.button("Four Year Plan", use_container_width= True):
-            st.switch_page("pages/four_year.py")
+            st.switch_page("pages/Four_Year_Plan.py")
     
      with middle:
 
         if st.button("Professors", use_container_width= True):
-            st.switch_page("pages/professors.py")
+            st.switch_page("pages/Professors.py")
 
      with right:
         if st.button("Scheduling", use_container_width=True):
-            st.switch_page("pages/schedule.py")
+            st.switch_page("pages/Schedule.py")
     
     
      st.write("---")

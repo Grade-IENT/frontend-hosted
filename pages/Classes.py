@@ -27,13 +27,13 @@ with st.container():
     left, middle, right = st.columns(3)
     with middle:
         if st.button("Four Year Plan", use_container_width=True):
-            st.switch_page("pages/four_year.py")
+            st.switch_page("pages/Four_Year_Plan.py")
     with left:
         if st.button("Profile", use_container_width=True):
-            st.switch_page("pages/profile.py")
+            st.switch_page("pages/Profile.py")
     with right:
         if st.button("Scheduling", use_container_width=True):
-            st.switch_page("pages/schedule.py")
+            st.switch_page("pages/Schedule.py")
     st.write("---")
 
 # def get_connection():
