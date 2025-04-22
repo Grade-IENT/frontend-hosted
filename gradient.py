@@ -145,7 +145,7 @@ with col2:
         if result and bcrypt.checkpw(password.encode(), result[1].encode()):
             st.session_state["user_id"] = result[0]
             st.success("✅ Logged in successfully!")
-            st.switch_page("pages/profile.py")
+            st.switch_page("pages/Profile.py")
         else:
             st.error("Invalid username or password.")
 
