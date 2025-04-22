@@ -147,17 +147,17 @@ if st.session_state.get("logout"):
 with st.container():
     st.title(f"{username}'s Profile")
 
-    # info, picture = st.columns((5, 2))
-    # with info:
-    st.write("---")
-    st.write("Intended Major: N/A")
-    st.write("Completed Credits: N/A")
-    st.write("GPA: N/A")
+    # # info, picture = st.columns((5, 2))
+    # # with info:
+    # st.write("---")
+    # st.write("Intended Major: N/A")
+    # st.write("Completed Credits: N/A")
+    # st.write("GPA: N/A")
 
-    # with picture:
-        # st.image("blankprofilepic.jpg", caption="Profile Picture", width=200)
+    # # with picture:
+    #     # st.image("blankprofilepic.jpg", caption="Profile Picture", width=200)
 
-    st.write("---")
+    # st.write("---")
 
 with st.expander("Four Year Plan"):
     with get_connection() as conn:
