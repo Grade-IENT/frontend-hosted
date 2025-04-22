@@ -155,7 +155,7 @@ with st.container():
                 label_visibility="collapsed",
                 options=combined_courses,
                 index=None, # initially empty 
-                placeholder="Search for a class by name...")
+                placeholder="Search for a class...")
 
         if selected_course:
             code, _ = selected_course.split("-", 1)
