@@ -99,6 +99,15 @@ def get_letter_grade(sqi):
     if sqi <= 100:
         return 'A+', 'limegreen'
     
+def approx_score(x):
+    """
+    Cubic on [0,5] → [0,100], strictly increasing,
+    with f(0)=0, f(5)=100, fitted to your sample points.
+    """
+    a, b, c = -1.26900567,  8.69005666, 8.27485836
+    return a*x**3 + b*x**2 + c*x
+
+
 @st.cache_data(ttl=600)  # cache for 10 minutes
 def load_classes():
     conn = get_connection()
@@ -157,7 +166,7 @@ with st.container():
             if not sel.empty:
                 for _, row in sel.iterrows():
                     with st.container():
-                        sqi = round(row['SQI']*10 + 50 if pd.notnull(row['SQI']) else -1, 2)
+                        sqi = round(approx_score(row['SQI']) if pd.notnull(row['SQI']) else -1, 2)
                         letter_grade, color = get_letter_grade(sqi)
                         st.markdown(f"""
                         <div style="background-color:#f5f5f5;padding:15px;border-radius:10px;margin-bottom:10px">

@@ -104,6 +104,14 @@ def get_letter_grade(sqi):
     if sqi <= 100:
         return 'A+', 'limegreen'
 
+def approx_score(x):
+    """
+    Cubic on [0,5] → [0,100], strictly increasing,
+    with f(0)=0, f(5)=100, fitted to your sample points.
+    """
+    a, b, c = -1.26900567,  8.69005666, 8.27485836
+    return a*x**3 + b*x**2 + c*x
+
 def render_prof_card(row):
     name = row["Professor Name"]
     chk_key = f"pinchk_{name}"
@@ -131,7 +139,7 @@ def render_prof_card(row):
     )
 
     # 4) Then your existing card markup
-    sqi = round(row["SQI"] * 10 + 50 if pd.notnull(row["SQI"]) else -1, 2)
+    sqi = round(approx_score(row["SQI"]) if pd.notnull(row["SQI"]) else -1, 2)
     letter, color = get_letter_grade(sqi)
     st.markdown(f"""
     <div style="background:#f5f5f5;padding:15px;border-radius:10px;margin-bottom:10px">
