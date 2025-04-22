@@ -46,19 +46,19 @@ def local_css(file_name):
 local_css("style/style.css")
 
 # Navigation buttons
-with st.container():
-    st.write("Go to :")
-    left, middle, right = st.columns(3)
-    with middle:
-        if st.button("Four Year Plan", use_container_width=True):
-            st.switch_page("pages/four_year.py")
-    with left:
-        if st.button("Profile", use_container_width=True):
-            st.switch_page("pages/profile.py")
-    with right:
-        if st.button("Scheduling", use_container_width=True):
-            st.switch_page("pages/schedule.py")
-    st.write("---")
+# with st.container():
+#     st.write("Go to :")
+#     left, middle, right = st.columns(3)
+#     with middle:
+#         if st.button("Four Year Plan", use_container_width=True):
+#             st.switch_page("pages/four_year.py")
+#     with left:
+#         if st.button("Profile", use_container_width=True):
+#             st.switch_page("pages/profile.py")
+#     with right:
+#         if st.button("Scheduling", use_container_width=True):
+#             st.switch_page("pages/schedule.py")
+#     st.write("---")
 
 def get_connection():
     return psycopg2.connect(

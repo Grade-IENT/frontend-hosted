@@ -91,19 +91,19 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-with st.container():
-    st.write("Go to:")
-    left, middle, right = st.columns(3)
-    with left:
-        if st.button("Profile", use_container_width=True):
-            st.switch_page("pages/profile.py")
-    with middle:
-        if st.button("Professors", use_container_width=True):
-            st.switch_page("pages/professors.py")
-    with right:
-        if st.button("Scheduling", use_container_width=True):
-            st.switch_page("pages/schedule.py")
-    st.write("---")
+# with st.container():
+#     st.write("Go to:")
+#     left, middle, right = st.columns(3)
+#     with left:
+#         if st.button("Profile", use_container_width=True):
+#             st.switch_page("pages/profile.py")
+#     with middle:
+#         if st.button("Professors", use_container_width=True):
+#             st.switch_page("pages/professors.py")
+#     with right:
+#         if st.button("Scheduling", use_container_width=True):
+#             st.switch_page("pages/schedule.py")
+#     st.write("---")
 
 # Inputs
 st.title("Four Year Plan")
