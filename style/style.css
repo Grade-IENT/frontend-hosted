@@ -1,110 +1,102 @@
-input[type=email], [type=text], textarea{
+/* Link to Google Fonts for Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+/* Custom Input Fields */
+.stTextInput, .stPasswordInput, .stTextArea {
     width: 100%;
     padding: 12px;
-    border: 1px solid #e28f8f;
+    border: 1px solid #d1a6e1;  /* Light purple border */
     margin-top: 6px;
     border-radius: 4px;
     margin-bottom: 16px;
     resize: vertical;
-
-}
-
-button[type=submit]{
-    background-color:rgb(202, 202, 210);
-    color:cadetblue;
-    padding: auto;
-    border: none;
-
-    border-radius: 4px;
-    cursor: pointer;
-
+    font-family: 'Roboto', sans-serif; /* Apply Roboto font */
+    background-color: white !important; /* Set background to white */
+    border: 1px solid #d1a6e1 !important; /* Light purple border */
+    color: #333 !important; /* Set text color to black or dark gray */
 }
 
 
+/* Display the logo normally on the left side */
+img {
+    position: absolute;
+    right: 295px;  /* Position it slightly from the left edge */
+    transform: translateY(-50%);  /* Adjust to truly center the logo vertically */
+    width: 500px;  /* Set the logo size */
+    height: auto;
+    padding-top: 80px;
+    z-index: 9999;  /* Ensure it's on top of other content */
+}
 
-footer {visibility: hidden;}
-header {visibility: hidden;}
+/* Override the background of input fields to prevent lilac */
+.stTextInput input, .stPasswordInput input, .stTextArea textarea {
+    background-color: white !important;  /* Set background to white */
+    border: 1px solid #D1A7E5 !important; /* Lilac border color */
+    color: #333333 !important;  /* Set text color to dark gray */
+}
+
+/* Focus state for input fields */
+.stTextInput input:focus, .stPasswordInput input:focus, .stTextArea textarea:focus {
+    border-color: black !important;  /* Focus border color */
+    outline: none !important;
+}
+
+/* Buttons */
+.stButton > button {
+    background-color: #D1A3E5     !important;  /* Blue button color */
+    color: black !important;
+    border-radius: 5px !important;  /* Rounded corners */
+}
+
+.stButton > button:hover {
+    background-color: B7A4E8 !important;  /* Darker blue on hover */
+    border-color: black !important;  /* Focus border color */
+
+}
+
+/* Sidebar background color */
+div[data-testid="stSidebar"] {
+    background-color: #D1A7E5 !important;  /* Lilac sidebar */
+    border-color: black !important;  /* Focus border color */
+}
 
 
+/*
+.stButton>button:hover {
+    background-color: #59d879;  /* Slightly darker purple 
+}
 
-.stApp > header {
-    background-color: transparent;
+.stButton>button {
+    background-color: #2D4D8B;  /* Slightly darker purple 
+} 
+
+*/
+
+/* Hiding footer and header elements */
+footer, header, .stApp > header {
+    visibility: hidden;
 }
 
 .stApp {
     margin: auto;
-    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Roboto', sans-serif; /* Apply Roboto font */
     overflow: auto;
-    background: linear-gradient(315deg, #f5e9e9 3%, #dd8989 38%, #c27474 68%, #ea7474 98%);
-    animation: gradient 15s ease infinite;
-    background-size: 400% 400%;
-    background-attachment: fixed;
-} 
+    background: 
+        linear-gradient(to right, 
+            #4c69f3, #8c4bbf, #f51b86, #ff375f)  /* Gradient for left side */
+        0% 0% / 50% 100% no-repeat,  /* Ensure the gradient covers the left side */
+        white; /* Solid white on the right side */
+}
 
 body {
-    margin: auto;
-    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    overflow: auto;
-    background: linear-gradient(315deg, #4f2991 3%, #7dc4ff 38%, #36cfcc 68%, #a92ed3 98%);
-    animation: gradient 15s ease infinite;
-    background-size: 400% 400%;
-    background-attachment: fixed;
-    }
-    
-    @keyframes gradient {
-        0% {
-        background-position: 0% 0%;
-        }
-        50% {
-        background-position: 100% 100%;
-        }
-        100% {
-        background-position: 0% 0%;
-    }
-    }
-    
-    .wave {
-        background: rgb(255 255 255 / 25%);
-        border-radius: 1000% 1000% 0 0;
-        position: fixed;
-        width: 200%;
-        height: 12em;
-        animation: wave 10s -3s linear infinite;
-        transform: translate3d(0, 0, 0);
-        opacity: 0.8;
-        bottom: 0;
-        left: 0;
-        z-index: -1;
-    }
-    
-    .wave:nth-of-type(2) {
-        bottom: -1.25em;
-        animation: wave 18s linear reverse infinite;
-        opacity: 0.8;
-    }
-    
-    .wave:nth-of-type(3) {
-        bottom: -2.5em;
-        animation: wave 20s -1s reverse infinite;
-        opacity: 0.9;
-    }
-    
-    @keyframes wave {
-        2% {
-        transform: translateX(1);
-        }25% {
-            transform: translateX(-25%);
-        }
-        
-        50% {
-            transform: translateX(-50%);
-        }
-        
-        75% {
-            transform: translateX(-25%);
-        }
-        
-        100% {
-            transform: translateX(1);
-        }
-    }
+    margin: 0;
+    height: 100vh;
+    background: white !important; /* White background for the right side */
+}
+
+
+/* Custom Input Field focus state */
+.stTextInput input:focus, .stPasswordInput input:focus, .stTextArea textarea:focus {
+    border-color: #8c6bf2 !important;
+    outline: none;
+}

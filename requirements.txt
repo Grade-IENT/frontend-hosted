@@ -5,3 +5,4 @@ psycopg2-binary
 toml==0.10.2
 streamlit_searchbox
 fuzzywuzzy
+bcrypt
