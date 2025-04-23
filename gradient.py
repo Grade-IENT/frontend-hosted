@@ -156,6 +156,7 @@ with col2:
         st.session_state["create_account"] = True
     if st.session_state["create_account"]:
         show_create_account_form()
+        st.session_state["create_account"] = False
 
     # Close the card div
     st.markdown("</div>", unsafe_allow_html=True)
