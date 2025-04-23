@@ -32,6 +32,10 @@ MAJOR_CSV = {
     "Packaging Engineering":                 "packaging_engineering_courses.csv",
 }
 
+MAJOR_CSV_WK={"Computer Engineering":                  "computer_engineering_courses.csv",
+              "Mechanical Engineering":                "mechanical_engineering_courses.csv"
+              }
+
 # ─────────────── Page setup ───────────────
 st.set_page_config(page_title="Gradient – Four‑Year Plan", page_icon=":tada:", layout="wide", initial_sidebar_state="expanded")
 
@@ -108,7 +112,8 @@ st.markdown("""
 # Inputs
 st.title("Four Year Plan")
 
-majors = list(MAJOR_CSV.keys())
+# majors = list(MAJOR_CSV.keys())
+majors = list(MAJOR_CSV_WK.keys())
 col1, col2 = st.columns(2)
 major = st.selectbox("Select Major", ["Select a major"] + majors)
 
@@ -241,7 +246,8 @@ def approx_score(x):
 
 if st.session_state.clicked[1] and major in majors:
     st.session_state["build_btn"] = True
-    csv_path = DATA_DIR / MAJOR_CSV[major]
+    # csv_path = DATA_DIR / MAJOR_CSV[major]
+    csv_path = DATA_DIR / MAJOR_CSV_WK[major]
     if not csv_path.exists():
         st.error(f"Catalog file not found: **{csv_path}**")
         st.stop()
