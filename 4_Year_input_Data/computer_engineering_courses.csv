@@ -1,42 +1,42 @@
 Course Code,Course Name,Prerequisites,Credits,Semester Offered,SQI
 160:159,General Chemistry for Engineers,640:103 or 640:104 or 640:112 or 640:115 or 640:135 or 640:151,3,Fall,3.21
 160:171,Intro to Experimentation,160:159 or 160:161 or 160:163 or 160:165 or 160:115 or 160:115,1, Fall,4.08
-355:101,College Writing,,3," Spring, Fall", 3
-440:101, Introduction to Data-Driver Design for Engineering Applications,,2, Fall, 5
+355:101,College Writing,,3," Spring, Fall",3
+440:101, Introduction to Data-Driver Design for Engineering Applications,,2, Fall,4.5
 640:151,Calculus I,640:113 and 640:114 and 640:112 or 640:113 and 640:114 and 640:115,4,Spring,3.94
 750:123,Analytical Physics I, ,2,Fall,4.21
-Humanities Elective,Humanities/Social Science Elective,,3," Spring, Fall", 4
-440:102, Introduction to Data-Driver Design for Engineering Applications,440:101,2, Spring, 5
+Humanities Elective,Humanities/Social Science Elective,,3," Spring, Fall",4.5
+440:102, Introduction to Data-Driver Design for Engineering Applications,440:101,2, Spring,4.5
 440:221,Engineering Mechanics (Statics),640:151 and 640:121 and 640:135 and 750:123 or 640:151 and 640:191 and 640:135 and 750:203 or 750:202 and 750:271 and 750:115 and 640:151 or 640:151 and 640:191 and 640:135 and 750:271 or 640:151 and 640:121 and 640:135 and 750:213 or 640:151 and 640:135 and 640:121 and 750:131,3,Spring,3.54
 640:152,Calculus II,640:135 or 640:151 or 640:135 or 640:155 or 640:121 or 640:135,4," Spring, Fall",4.01
 750:124,Analytical Physics IB,750:115 or 750:123,2,Spring,4.23
 332:221,Principles of Electrical Engineering I + Lab,640:152 and 640:154 and 640:192 and 750:124 or 640:152 and 640:154 and 640:192 and 750:116 or 640:152 and 640:154 and 640:192 and 750:201 or 640:152 and 640:154 and 640:192 and 750:203 or 640:152 and 640:154 and 640:192 and 750:271,4," Spring, Fall",3.98
 332:231,Digital Logic Design + Lab,640:152 and 640:154 and 640:192 and 750:123 or 640:152 and 640:154 and 640:192 and 750:116 or 640:152 and 640:154 and 640:192 and 750:201 or 640:152 and 640:154 and 640:192 and 750:203 or 640:152 and 640:154 and 640:192 and 750:271,4," Spring, Fall",3.47
 640:251,Multivariable Calculus,640:152 or 640:192 or 640:136 or 640:156 or 640:122,4," Spring, Fall",3.89
-750:227,Analytical Physics IIA + Lab,750:116 and 750:124 and 750:271 and 640:152,3,Fall,3.78
+750:227,Analytical Physics IIA + Lab,750:116 and 750:124 and 750:271 and 640:152,4,"Spring, Fall",3.78
 332:222,Principles of Electrical Engineering II + Lab,332:221 and 750:234 and 640:251 or 640:221 and 640:235 and 332:221 or 640:291 and 640:235 and 332:221,4," Spring, Fall",3.98
 332:226,Probability & Random Processes,640:251 or 640:291,3,Spring,2.71
 332:252,Programming Methodology I,440:127,4,Spring,2.99
 640:244,Differential Equations,640:243 or 640:251 or 640:291 or 640:235 or 640:235,4," Spring, Fall",4.08
 332:331,Computer Architecture + Lab,332:231 or 332:233,4," Spring, Fall",3.98
-332:345,Linear Systems & Signals,332:222 and 640:244 and 640:244 and 640:244 or 332:222 and 640:314 and 640:314 and 640:314 or 332:222 and 640:314 and 640:314 and 640:314 or 332:222 and 640:292 and 640:292 and 640:292 or 332:222 and 640:252 and 640:252 and 640:252,4,Fall,4.0
+332:345,Linear Systems & Signals,332:222 and 640:244 and 640:244 and 640:244 or 332:222 and 640:314 and 640:314 and 640:314 or 332:222 and 640:314 and 640:314 and 640:314 or 332:222 and 640:292 and 640:292 and 640:292 or 332:222 and 640:252 and 640:252 and 640:252,4,Fall,4
 332:351,Programming Methodology II,198:111 or 332:252,4,Fall,3.85
-332:4XX,Restricted Computer Engineering Elective,332:222,3," Spring, Fall", 3
-Humanities Elective,Humanities/Social Science Elective,,3," Spring, Fall", 4
-Humanities Elective,Humanities/Social Science Elective,,3," Spring, Fall", 4
+332:4XX,Restricted Computer Engineering Elective,332:222,3," Spring, Fall",3
+Humanities Elective,Humanities/Social Science Elective,,3," Spring, Fall",4.5
+Humanities Elective,Humanities/Social Science Elective,,3," Spring, Fall",4.5
 332:312,Discrete Mathematics,640:251 or 640:291,3,Spring,3.14
 332:452,Software Engineering,332:351 or 198:112,3," Spring, Fall",2.75
 332:434,Intro to Computer Systems,198:112 and 198:112 and 332:351 and 332:331,3,Spring,3.26
 332:393,Professionalism & Ethics,,1,Spring,4.27
 540:343,Engineering Economics,,3," Spring, Fall",4.52
-Technical Elective,Technical Elective,,3," Spring, Fall", 3
+Technical Elective,Technical Elective,,3," Spring, Fall",3.8
 332:437,Digital System Design,332:331 and 198:211 and 332:351 or 332:331 and 198:211 and 198:112,3,Fall,3.34
 332:449,Intro to Capstone Design,332:434 ,1," Spring, Fall",4.07
-332:4XX,Computer Engineering Elective,332:222,3," Spring, Fall", 3
-332:4XX,Computer Engineering Elective,332:222,3," Spring, Fall", 3
-Humanities Elective,Humanities/Social Science Elective,,3," Spring, Fall", 4
-Math/Sci/Eng Elective,Math/Science/Engineering Elective,,3," Spring, Fall", 3
+332:4XX,Computer Engineering Elective,332:222,3," Spring, Fall",3.8
+332:4XX,Computer Engineering Elective,332:222,3," Spring, Fall",3.8
+Humanities Elective,Humanities/Social Science Elective,,3," Spring, Fall",4
+Math/Sci/Eng Elective,Math/Science/Engineering Elective,,3," Spring, Fall",3.8
 332:448,Capstone Design in ECE,332:345 or 332:449,3," Spring, Fall",4.07
-332:4XX,Computer Engineering Elective,332:222,3," Spring, Fall", 3
-Technical Elective,Technical Elective,,3," Spring, Fall", 3
-General Elective,General Elective,,3," Spring, Fall", 3 
+332:4XX,Computer Engineering Elective,332:222,3," Spring, Fall",3.8
+Technical Elective,Technical Elective,,3," Spring, Fall",3.8
+General Elective,General Elective,,3," Spring, Fall",4.5
