@@ -192,7 +192,7 @@ with st.container():
                         top_profs = ""
                         for _, prof in teaches_sel.iterrows():
                             teaches_sqi = round(approx_score(prof["SQI"]) if pd.notnull(prof["SQI"]) else -1, 2)
-                            teaches_letter_grade, teaches_color = get_letter_grade(approx_score(prof["SQI"]))
+                            teaches_letter_grade, teaches_color = get_letter_grade(teaches_sqi)
                             top_profs += f"{prof['Professor Name']}: <span style='color:{teaches_color}'>{teaches_letter_grade} ({teaches_sqi if teaches_sqi != -1 else 'N/A'})</span><br>"
                         top_profs = "No professors found for this course" if len(top_profs) == 0 else top_profs
 
