@@ -203,7 +203,7 @@ with st.container():
                                 <p><strong>SQI: </strong><span style='color:{color}'>{letter_grade} ({sqi if sqi != -1 else 'N/A'})</span></p>
 
                                 <details style="margin-top:10px;">
-                                <summary style="font-weight:bold;cursor:pointer;">View Top Professors</summary>
+                                <summary style="font-weight:bold;cursor:pointer;">View Top Professors/TAs</summary>
                                 <p style="margin-left:15px;margin-top:10px;">{top_profs}</p>
                                 </details>
                             </div>
