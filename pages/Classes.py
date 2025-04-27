@@ -131,7 +131,7 @@ def load_teaches():
     cur = conn.cursor()
 
     query = """
-    SELECT c.course_code, p.prof_name, t.sqi
+    SELECT c.course_code, p.prof_name, p.sqi
     FROM Class c JOIN Teaches t ON c.id = t.class_id
     JOIN Professor p ON p.id = t.prof_id
     """
