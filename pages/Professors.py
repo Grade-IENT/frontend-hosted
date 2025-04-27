@@ -86,7 +86,7 @@ def get_letter_grade(sqi):
     if sqi < 70:
         return 'D+', 'orange'
     if sqi < 73:
-        return 'C-', '#FFA600' # darker yellow for visibility
+        return 'C-', '#FFD700' # darker yellow for visibility
     if sqi < 77:
         return 'C', '#FFA600'
     if sqi < 80:
